@@ -74,6 +74,7 @@ Selected final model: **Logistic Regression**
 - Features such as **Credit Utilization Ratio**, **Delinquency Ratio**, and **Loan-to-Income Ratio** were found to be the strongest drivers of default risk  
 - Ensured model transparency for financial analysts and regulators  
 - [Video Walkthrough](https://youtu.be/VKNXrhRMcJ4)
+- Model Deployment - [Streamlit](https://creditriskscorepredictionml.streamlit.app/)
 ---
 
 ### AI Governance & Fairness
